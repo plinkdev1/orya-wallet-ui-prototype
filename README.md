@@ -44,7 +44,7 @@ Most wallets bury everything under Home / Send / Receive / Settings. ORYA instea
 | **Care** | In-product support and help | help center |
 | **Settings** | Preferences, security, and personalization | settings groups |
 
-The naming is a deliberate product decision: make a complex multi-chain wallet feel calm, premium, and navigable rather than technical.
+The naming is a deliberate product decision: make a complex multi-chain wallet feel calm, premium, and navigable rather than technical. Several modules are full sub-experiences in their own right — Atrium, for example, expands into a multi-page wealth ecosystem, not a single screen.
 
 ## Design & Front-End Engineering
 
@@ -100,4 +100,5 @@ Open http://localhost:3000 — it loads straight into Vault on mock data; no log
 ## Disclaimer
 
 Prototype shared as a portfolio artifact. Not financial software; do not use with real funds.
+
 
