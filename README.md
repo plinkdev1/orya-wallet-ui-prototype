@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# ORYA - Wallet UI Prototype
+# Smart-Account Wallet UI Prototype
 
 **A high-fidelity UI prototype for the ORYA smart-account wallet**
 
