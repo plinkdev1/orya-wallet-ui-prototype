@@ -12,7 +12,7 @@
 
 </div>
 
-> **Related:** smart-account backend -> [orya-omnichain-smart-account-wallet](https://github.com/plinkdev1/orya-omnichain-smart-account-wallet)
+> **Related:** smart-account backend -> [omnichain-smart-account-wallet](https://github.com/plinkdev1/omnichain-smart-account-wallet)
 
 ---
 
@@ -59,7 +59,7 @@ Wallet dashboard
 ## Project Structure
 
 ```
-orya-wallet-ui-prototype/
+smart-account-wallet-ui-prototype/
 app/
    atrium/
    chains/
@@ -128,7 +128,7 @@ npx next dev
 
 ## Notes
 
-Shared as a portfolio artifact demonstrating product and UX design. UI prototype - logic is mocked. The on-chain backend lives in [orya-omnichain-smart-account-wallet](https://github.com/plinkdev1/orya-omnichain-smart-account-wallet).
+Shared as a portfolio artifact demonstrating product and UX design. UI prototype - logic is mocked. The on-chain backend lives in [omnichain-smart-account-wallet](https://github.com/plinkdev1/omnichain-smart-account-wallet).
 
 <div align="center">
 
